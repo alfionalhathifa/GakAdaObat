@@ -1,8 +1,10 @@
-package com.zendev.gakadaobat;
+package com.zendev.gakadaobat.ui.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.zendev.gakadaobat.R;
 
 public class MainActivity extends AppCompatActivity {
 
