@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">GakAdaObat</string>
+    <string name="app_name">Gak Ada Obat</string>
+    <string name="title_food_list">Food List</string>
+    <string name="title_favorite_list">Favorite List</string>
 </resources>
